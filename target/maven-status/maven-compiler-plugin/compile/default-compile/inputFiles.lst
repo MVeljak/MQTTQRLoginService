@@ -1,0 +1,7 @@
+D:\MQTTQRLoginService\src\main\java\com\veljak\applications\producers\MessageProducerBean.java
+D:\MQTTQRLoginService\src\main\java\com\veljak\applications\producers\ProducerAdapterServive.java
+D:\MQTTQRLoginService\src\main\java\com\veljak\applications\QrloginApplication.java
+D:\MQTTQRLoginService\src\main\java\com\veljak\applications\factoryes\MqttFactory.java
+D:\MQTTQRLoginService\src\main\java\com\veljak\applications\channels\MqttSenderChanel.java
+D:\MQTTQRLoginService\src\main\java\com\veljak\applications\gateways\MqttSenderGateway.java
+D:\MQTTQRLoginService\src\main\java\com\veljak\applications\activators\ActivatorService.java

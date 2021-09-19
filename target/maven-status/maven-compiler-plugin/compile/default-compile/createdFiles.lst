@@ -1,0 +1,8 @@
+com\veljak\applications\activators\ActivatorService$1.class
+com\veljak\applications\gateways\MqttSenderGateway.class
+com\veljak\applications\producers\ProducerAdapterServive.class
+com\veljak\applications\activators\ActivatorService.class
+com\veljak\applications\factoryes\MqttFactory.class
+com\veljak\applications\channels\MqttSenderChanel.class
+com\veljak\applications\producers\MessageProducerBean.class
+com\veljak\applications\QrloginApplication.class
